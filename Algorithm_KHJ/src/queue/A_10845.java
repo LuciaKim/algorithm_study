@@ -2,7 +2,7 @@ package queue;
 
 import java.util.Scanner;
 
-public class QueueImple {
+public class A_10845 {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner( System.in);

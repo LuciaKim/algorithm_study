@@ -3,7 +3,7 @@ package queue;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class QueuePrint {
+public class A_1966 {
 	
 	public static void main( String[] args) {
 		Scanner scan = new Scanner( System.in);

@@ -2,7 +2,7 @@ package stack;
 
 import java.util.Scanner;
 
-public class StackSeq {
+public class A_1874 {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner( System.in);

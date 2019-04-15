@@ -3,7 +3,7 @@ package queue;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class Josephus {
+public class A_11866 {
 	public static void main( String[] args) {
 		Scanner scan = new Scanner( System.in);
 		int commLeng = scan.nextInt();

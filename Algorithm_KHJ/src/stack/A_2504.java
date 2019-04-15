@@ -2,7 +2,7 @@ package stack;
 
 import java.util.Scanner;
 
-public class VpsValue {
+public class A_2504 {
 	public static void main( String[] args) {
 		Scanner scan = new Scanner( System.in);
 		String str = scan.next();

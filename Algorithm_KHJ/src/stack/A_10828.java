@@ -2,12 +2,12 @@ package stack;
 
 import java.util.Scanner;
 
-public class Stack {
+public class A_10828 {
 	static int[] stack;
 	static int top = -1;
 	
 	public static void main(String[] args) {
-		Stack stackObj = new Stack();
+		A_10828 stackObj = new A_10828();
 		Scanner sc = new Scanner(System.in);
 		int commInt = sc.nextInt();
 		stack = new int[ commInt];
